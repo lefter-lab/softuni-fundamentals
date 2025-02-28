@@ -7,9 +7,9 @@ public class WierdNumber {
         scanner.close();
 
         if (n % 2 != 0 || (n >= 6 && n <= 20)) {
-            System.out.println("Weird1");
+            System.out.println("Weird1we");
         } else {
-            System.out.println("Not Weird");
+            System.out.println("Not Weirdае");
         }
     }
 }
