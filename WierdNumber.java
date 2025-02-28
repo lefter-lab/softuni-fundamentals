@@ -7,7 +7,7 @@ public class WierdNumber {
         scanner.close();
 
         if (n % 2 != 0 || (n >= 6 && n <= 20)) {
-            System.out.println("Weird");
+            System.out.println("Weird1");
         } else {
             System.out.println("Not Weird");
         }
